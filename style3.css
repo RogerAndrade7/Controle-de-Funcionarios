@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: rgb(172, 54, 0);
+}
+
+h2{
+    text-align: center;
+    color: rgb(122, 122, 235);
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    text-align: center;/* Alinha o conteúdo no centro da página */
+}
+
+table {
+    margin: 0 auto; /* Define as margens horizontalmente para centralizar a tabela */
+}
+.meu-botao {
+    background-color: rgb(122, 122, 235);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+/* Estilo para o botão quando o mouse passa por cima */
+.meu-botao:hover {
+    background-color: rgb(172, 54, 0);
+}
+
+.formulario{
+    text-align:center;
+}
